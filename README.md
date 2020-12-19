@@ -1,7 +1,6 @@
 # 정승현의 지식 저장 공유소 깃허브에 오신걸 환영합니다. 👋
 
-<!--
-**tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## History
 
@@ -41,3 +40,6 @@
 # Velog 주소
 
 <https://velog.io/@tmdgusya>
+
+<!--
+**tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
