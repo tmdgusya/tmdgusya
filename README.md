@@ -10,7 +10,7 @@
 ## 사용 언어 및 프레임워크❗️❗️
 
 **실무에서 사용한 언어 및 프레임워크**
-**JavaScript(보통) TypeScript(보통) NodeJS(보통) NestJS(보통) Angular(낮음) TypeORM(보통) Jest(상)**
+**JavaScript(보통) TypeScript(보통) NodeJS(보통) NestJS(보통) Angular(낮음) TypeORM(보통) Jest(중/상)**
 
 **지속적으로 공부중인 언어 및 프레임 워크**
 **Java(중) / Spring(하) / JPA(중)**
