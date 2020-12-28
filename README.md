@@ -1,7 +1,5 @@
 # 정승현의 지식 저장 공유소 깃허브에 오신걸 환영합니다. 👋
 
-
-
 ## History
 
 * Suwon Uni. (2015/02)~(2021/02)
@@ -10,10 +8,10 @@
 ## 사용 언어 및 프레임워크❗️❗️
 
 **실무에서 사용한 언어 및 프레임워크**
-**JavaScript(보통) TypeScript(보통) NodeJS(보통) NestJS(보통) Angular(낮음) TypeORM(보통) Jest(중/상)** <br>
+**JavaScript(보통) TypeScript(보통) NodeJS(보통) NestJS(하) Angular(낮음) TypeORM(보통) Jest(중/상)** <br>
 
 **지속적으로 공부중인 언어 및 프레임 워크**
-**Java(중) / Spring(하) / JPA(중)**
+**Java(중) / Spring(하) / JPA(중)** 
 
 ## 실무에서 했던 일들 및 느낀점(2020/08/01 ~ 2020/12/31, 대학교 2학년 재학중 인턴 실습)
 
