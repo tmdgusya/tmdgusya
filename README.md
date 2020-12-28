@@ -11,20 +11,22 @@
 
 **실무에서 사용한 언어 및 프레임워크**
 **JavaScript(보통) TypeScript(보통) NodeJS(보통) NestJS(보통) Angular(낮음) TypeORM(보통) Jest(중/상)** <br>
-**Shell Script - 간단한 서버 자동화 스크립트 (Git 에 보면 문서 폼 형식 변경도 있고, 실무에서는 주로 서버 작동 및 Task 죽이기 , 서버 업데이트 스크립트를 짜서 자동화를 많이 시켰음)**
 
 **지속적으로 공부중인 언어 및 프레임 워크**
 **Java(중) / Spring(하) / JPA(중)**
 
-## Git-Hub Study List❗️❗️
+## 실무에서 했던 일들 및 느낀점
 
-* NodeJS and PuG => Youtube Clone 🎥
+1. Angular Context-menu 개발
+<적는중...>
+2. TEST CODE 작성 (JEST FRAME WORK 를 통한)
+<적는중...>
+3. Python Script 를 통한 업무 자동화
 
-* Java Spring && JPA => Simple Web 📧📥
-
-* GraphQL && React => Simple API use 📮
-
-* Smart Bicycle Lock => 한이음 프로젝트 (Android App)👾
+- 회사에서 테스트 업무를 맞게되면서 Git Repository 를 두가지로 구분하게 되었다. 개발 서버와, Test Report 를 따로 저장하는 일이였다.
+- Dev Repo 에서 CI/CD pipeline 을 거친뒤, Jest 를 통한 UT TEST 후 해당 테스트 정보를 Test repository 에 Push 하도록 설계했다. 도식 정보는 아래와 같다.
+4. Shell Script 를 통한 업무 자동화
+<적는중...>
 
 ## 계속해서 해나갈 것들🧘🏻‍♂️
 
