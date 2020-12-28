@@ -130,6 +130,12 @@ Test 결과는 Jest Framework 의 Collect Coverage 옵션을 통해 만들고, �
 
 **4. 핸드폰을 통해 자물쇠를 열고 닫을 수 있어야 한다.**
 
+### 코드설계
+
+작성중❗️
+
+### 동영상
+
 [Youtube 시연 동영상](https://www.youtube.com/watch?v=a3f2-FbZoG8)
 
 ## 코드스쿼드 마스터즈 코스 백엔드 과정(2021/01/06 ~ )
