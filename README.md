@@ -17,18 +17,13 @@
 
 ## 실무에서 했던 일들 및 느낀점
 
-1. Angular Context-menu 개발
-<적는중...>
-2. TEST CODE 작성 (JEST FRAME WORK 를 통한)
-<적는중...>
-3. Python Script 를 통한 업무 자동화
+## 1. Angular Context-menu 개발
 
-- 회사에서 테스트 업무를 맞게되면서 Git Repository 를 두가지로 구분하게 되었다. 개발 서버와, Test Report 를 따로 저장하는 일이였다.
-- Dev Repo 에서 CI/CD pipeline 을 거친뒤, Jest 를 통한 UT TEST 후 해당 테스트 정보를 Test repository 에 Push 하도록 설계했다. 도식 정보는 아래와 같다.
-4. Shell Script 를 통한 업무 자동화
-<적는중...>
 
-## 5. Jest FrameWork 를 통한 Test 및 Git-lab CI/CD Pipeline 을 통한 테스트 자동화 및 코드 검증
+
+
+
+## 2. Jest FrameWork 를 통한 Test 및 Git-lab CI/CD Pipeline 을 통한 테스트 자동화 및 코드 검증
 
 ### 처음 입사시
 내가 다니던 회사에서는 테스트 환경이 적절히 구성되어 있지 않았다. 회사에 처음 입사했을때, JavaScript 와 TypeScript 를 본격적으로 접했는데, 생각보다 자바의 신 문법들과 비슷해서<br>
@@ -51,6 +46,35 @@
 ### CI/CD 문제점
 
 - 이건 도커 환경의 문제였는데, 아무래도 테스트를 하지않다보니, 테스트 환경의 DB 를 개발서버와 똑같은 DB를 보고 있었다. 그래서 TEST 를 돌리는데 한명당 2\*N의 DB Connection 의 요구사항이 필요하게 되었고, 이는 자연스레 데이터베이스 서버의 부담감으로 작용했다. 그래서 회사에서 사용하고 있던 TypeORM 에 대해 공부했고, TypeORM 이 Default 로 Connection을 10개 가져간다는 사실을 알게되었다. 그래서 테스트 환경에서 Connection 에 대해 TEST 를 진행했고, 5개정도로 설정했을때 적당하다는 결과를 도출하게되었다.
+
+
+## 3. Python Script 를 통한 업무 자동화
+
+- 회사에서 테스트 업무를 맞게되면서 Git Repository 를 두가지로 구분하게 되었다. 개발 서버와, Test Report 를 따로 저장하는 일이였다. <br>
+- Dev Repo 에서 CI/CD pipeline 을 거친뒤, Jest 를 통한 UT TEST 후 해당 테스트 정보를 Test repository 에 Push 하도록 설계했다. 도식 정보는 아래와 같다.
+
+## 4. Shell Script 를 통한 업무 자동화
+
+- 처음에 인턴으로 갔을때, 학교 실습생이다보니 1달정도의 관찰기간이 있었다고 한다. 그때는 거의 단순 반복 업무를 주로했었는데, 그때는 주로 스테이징 서버의 환경을 맡게되었다. <br>
+근데 아무도 안쓰는 곳이다 보니 너무 불편한점이 많았다. 자동화 되야할 부분이 자동화 되어있지 않았고, 너무 수동으로 굴러간다는 느낌이 강했다. <br>
+그래서 선임에게 이걸 자동화 시킬 방법이 없겠냐고 묻자, 선임이 나에게 **셸스크립트를** 추천해주었다.<br>
+처음에는 이게 뭐지 난잡한 마음이였지만, 쓰다보니 강력한 능력을 지닌 언어라는것을 깨닫게 되었다. 그래서 서버의 On / off 기능을 자동으로 설정할 수 있도록 하고,
+
+### Git 을 통한 코드 최신 업데이트의 자동화
+![코드최신화](./ServerSide.png)
+
+를 위와 같이 설계 하였다. Y 혹은 Yes 를 입력하면 알아서 build 과정까지 진행했으며, 그 과정에서 DB Connection 의 정보도 입력할 수 있도록 하였다. sed 이용! <br>
+이렇게 하기 싫은 귀찮은 일들도 자동화 할 수 있는 걸 알고 와 셸이란건 이렇게 보조적으로 알기만해도 정말 유용하다는 사실을 알게되었다. <br>
+
+그러다 회사에서 팀장님이 Mdfile을 Redmine으로 대량으로 문서를 옮겨야 하는 일이 필요했고, 나에게 도움을 요청했다.<br>
+기존에 있던 Pandoc 은 Textile 형태로는 바꿔주었으나, Redmine 에 맞게는 작성하지 못했고, 그래서 해당 과정을 수정해야 할 필요가 생겼다. 그래서 아래와 같은 설계도를 그렸다.
+
+![ConverToRedmine](./ConvertMD.png)
+
+아래 깃허브에 코드가 적혀있다. 근데 Shell 을 자세하게 알지못하고, 코드를 적다보니 난잡한 부분이 있다. 빨리 옮겨야 하기 때문에 최대한 빨리짜느라 잘 설계하지 못했다.
+
+[Shell Script 깃허브 링크](https://github.com/tmdgusya/MdfileConvertToRedmineDocs)
+
 
 ## 계속해서 해나갈 것들🧘🏻‍♂️
 
