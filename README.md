@@ -116,6 +116,8 @@ Test 결과는 Jest Framework 의 Collect Coverage 옵션을 통해 만들고, �
 
 [Shell Script 깃허브 링크](https://github.com/tmdgusya/MdfileConvertToRedmineDocs)
 
+## 코드스쿼드 마스터즈 코스 백엔드 과정(2021/01/06 ~ )
+
 
 ## 계속해서 해나갈 것들🧘🏻‍♂️
 
