@@ -190,7 +190,12 @@ https://github.com/tmdgusya/TIL (2020/12/30 ~ )
 
 ## 회고록
 
-[20210104 자바로 전가산기 설계 및 비트 연산기 설계](https://velog.io/@tmdgusya/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A02020-01-04)
+### 코드스쿼드
+- [20210104 자바로 전가산기 설계 및 비트 연산기 설계](https://velog.io/@tmdgusya/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A02020-01-04)
+
+### 백기선님 자바 스터디 참가
+
+### JPA 다시보기
 
 ## 하고 싶은 것들
 
