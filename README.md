@@ -183,12 +183,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 * 유튜브 백기선님 스터디 및 자바 책 계속 스터디
 * 클린 코드 -> 깔끔하게 코드 적는법
 
-### TIL
-
-https://github.com/tmdgusya/TIL (2020/12/30 ~ )
-- 매일매일 진행중
-
-## 회고록
+## TIL
 
 ### 코드스쿼드
 - [20210104 자바로 전가산기 설계 및 비트 연산기 설계](https://velog.io/@tmdgusya/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A02020-01-04)
@@ -198,6 +193,9 @@ https://github.com/tmdgusya/TIL (2020/12/30 ~ )
 
 ### JPA 다시보기
 - [JPA 등장 배경 및 영속성 컨텍스트](https://velog.io/@tmdgusya/JPA-%EB%93%B1%EC%9E%A5%EB%B0%B0%EA%B2%BD)
+
+### Effective Java
+- [정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
 
 ## 하고 싶은 것들
 
