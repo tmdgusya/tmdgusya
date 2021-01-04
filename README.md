@@ -196,6 +196,7 @@ https://github.com/tmdgusya/TIL (2020/12/30 ~ )
 ### 백기선님 자바 스터디 참가
 
 ### JPA 다시보기
+- [JPA 등장 배경 및 영속성 컨텍스트](https://velog.io/@tmdgusya/JPA-%EB%93%B1%EC%9E%A5%EB%B0%B0%EA%B2%BD)
 
 ## 하고 싶은 것들
 
