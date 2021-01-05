@@ -197,6 +197,10 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 ### Effective Java
 - [정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
 
+### DataStructure 직접 구현
+
+- [DataStructure](https://github.com/tmdgusya/TIL/blob/main/DataStructure/DataStructure.md)
+
 ## 하고 싶은 것들
 
 * OpenSource Project 참여!
