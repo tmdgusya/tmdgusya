@@ -193,7 +193,8 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 
 ### 자바 스터디
 - [1주차: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. #1](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week1/Week1.md)
-
+- [2주차: 자바 I/O 및 버퍼란?](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/out/production/JavaStudyBKS/Week2/IO.md) - 정리중
+🧑🏻‍💻
 ### JPA 다시보기
 - [JPA 등장 배경 및 영속성 컨텍스트](https://velog.io/@tmdgusya/JPA-%EB%93%B1%EC%9E%A5%EB%B0%B0%EA%B2%BD)
 
