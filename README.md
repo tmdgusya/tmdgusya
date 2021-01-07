@@ -190,6 +190,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 
 ### CS 기초 이론
 - [20210104 자바로 전가산기 설계 및 비트 연산기 설계](https://velog.io/@tmdgusya/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A02020-01-04)
+- [Linux Shell Script](https://github.com/tmdgusya/TIL/blob/main/Linux/FindCSFile/FindCSFileDescription.md)
 
 ### 자바 스터디
 - [1주차: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. #1](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week1/Week1.md)
