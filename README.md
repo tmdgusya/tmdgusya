@@ -200,7 +200,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [JPA 등장 배경 및 영속성 컨텍스트](https://velog.io/@tmdgusya/JPA-%EB%93%B1%EC%9E%A5%EB%B0%B0%EA%B2%BD)
 
 ### 스프링 🟢
-- [IoC](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter01.md)
+- [IoC && DI](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter01.md)
 
 ### Effective Java
 - [정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
