@@ -212,6 +212,9 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [[Item 03] private 생성자나 열거타입으로 싱글턴임을 보장하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item03/item03.md)
 - [[Item 04] 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item04/item04.md)
 - [[Item 05] 자원을 직접 명시하지 말고, 의존 객체 주입을 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item05/Item05.md)
+- [[Item 06] 불필요한 객체 생성을 피하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item06/item06.md)
+- [[Item 07] 다 쓴 객체 참조를 해제하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item07/item07.md)
+
 #### 스터디 진행중인 내용
 **organization :** https://github.com/java-squid
 - [Item 50의존성 주입을 활용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/DI/Item05.md)
