@@ -207,8 +207,13 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [템플릿](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter02/Template.md)
 
 ### Effective Java
-- [정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
-- [의존성 주입을 활용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/DI/Item05.md)
+- [Item 01정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
+- [Item 02생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/tmdgusya/TIL/tree/main/EffectiveJava/src/Item02)
+- [Item 03private 생성자나 열거타입으로 싱글턴임을 보장하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item03/item03.md)
+
+#### 스터디 진행중인 내용
+**organization :** https://github.com/java-squid
+- [Item 50의존성 주입을 활용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/DI/Item05.md)
 
 ## 하고 싶은 것들
 
