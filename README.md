@@ -209,11 +209,11 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [템플릿](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter02/Template.md)
 
 ### Effective Java
-- [[Item 01] 정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter01/FactoryMethod.md)
-- [[Item 02] 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/tmdgusya/TIL/tree/main/EffectiveJava/src/Item02)
-- [[Item 03] private 생성자나 열거타입으로 싱글턴임을 보장하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item03/item03.md)
-- [[Item 04] 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item04/item04.md)
-- [[Item 05] 자원을 직접 명시하지 말고, 의존 객체 주입을 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item05/Item05.md)
+- [[Item 01] 정적 팩토리 메소드](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/Chapter03/Chapter01/FactoryMethod.md)
+- [[Item 02] 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/tmdgusya/TIL/tree/main/EffectiveJava/src/Chapter03/Item02)
+- [[Item 03] private 생성자나 열거타입으로 싱글턴임을 보장하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Chapter03/Item03/item03.md)
+- [[Item 04] 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Chapter03/Item04/item04.md)
+- [[Item 05] 자원을 직접 명시하지 말고, 의존 객체 주입을 사용하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Chapter03/Item05/Item05.md)
 - [[Item 06] 불필요한 객체 생성을 피하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item06/item06.md)
 - [[Item 07] 다 쓴 객체 참조를 해제하라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Item07/item07.md)
 - [[Item 08] finallizer 와 cleaner 사용을 피해라](https://github.com/tmdgusya/TIL/blob/main/EffectiveJava/src/Chapter03/Item08.md)
