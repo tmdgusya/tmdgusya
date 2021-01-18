@@ -200,6 +200,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [1주차: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. #1](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week1/Week1.md)
 - [2주차: 자바 I/O 및 버퍼란?](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/out/production/JavaStudyBKS/Week2/IO.md)
 - [3주차 :객체 지향 프로그래밍이란](https://velog.io/@tmdgusya/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80)
+- [4주차 :람다식과 함수형 프로그래밍](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week3/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 
 🧑🏻‍💻
 ### JPA 다시보기
