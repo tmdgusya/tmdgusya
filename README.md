@@ -195,6 +195,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 
 #### Naver 부스트코스 CS50 코칭스터디 2기 (Havard Uni)
 - [네이버 부스트 코스 1주차 (컴퓨팅 사고)](https://velog.io/@tmdgusya/%EB%84%A4%EC%9D%B4%EB%B2%84-CS-50-%EC%B2%AB%EC%A3%BC-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [네이버 부스트 코스 2주차 (C언어)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission2/Question.c)
 
 ### 자바 스터디
 - [1주차: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. #1](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week1/Week1.md)
