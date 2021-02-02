@@ -187,31 +187,10 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 * 유튜브 백기선님 스터디 및 자바 책 계속 스터디
 * 클린 코드 -> 깔끔하게 코드 적는법
 
-## TIL
-
-### CS 기초 이론
-- [20210104 자바로 전가산기 설계 및 비트 연산기 설계](https://velog.io/@tmdgusya/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A02020-01-04)
-- [Linux Shell Script](https://github.com/tmdgusya/TIL/blob/main/Linux/FindCSFile/FindCSFileDescription.md)
-- [Process & Thread Java 로 구현](https://github.com/tmdgusya/TIL/blob/main/StudyJava/src/Week3Thread/OS.java)
-
 #### Naver 부스트코스 CS50 코칭스터디 2기 (Havard Uni)
 - [네이버 부스트 코스 1주차 (컴퓨팅 사고)](https://velog.io/@tmdgusya/%EB%84%A4%EC%9D%B4%EB%B2%84-CS-50-%EC%B2%AB%EC%A3%BC-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트 코스 2주차 (C언어)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission2/Question.c)
 - [네이버 부스트 코스 3주차 (배열)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission3/Queue.c)
-
-### 자바 스터디
-- [1주차: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. #1](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week1/Week1.md)
-- [2주차: 자바 I/O 및 버퍼란?](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/out/production/JavaStudyBKS/Week2/IO.md)
-- [3주차 :객체 지향 프로그래밍이란](https://velog.io/@tmdgusya/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80)
-- [4주차 :람다식과 함수형 프로그래밍](https://github.com/tmdgusya/TIL/blob/main/JavaStudyBKS/src/Week3/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
-
-🧑🏻‍💻
-### JPA 다시보기
-- [JPA 등장 배경 및 영속성 컨텍스트](https://velog.io/@tmdgusya/JPA-%EB%93%B1%EC%9E%A5%EB%B0%B0%EA%B2%BD)
-
-### 스프링 🟢
-- [IoC && DI](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter01.md)
-- [템플릿](https://github.com/tmdgusya/TIL/blob/main/%E1%84%90%E1%85%A9%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC/Chapter01/src/Chapter02/Template.md)
 
 ### Effective Java
 
