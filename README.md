@@ -191,6 +191,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 - [네이버 부스트 코스 1주차 (컴퓨팅 사고)](https://velog.io/@tmdgusya/%EB%84%A4%EC%9D%B4%EB%B2%84-CS-50-%EC%B2%AB%EC%A3%BC-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트 코스 2주차 (C언어)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission2/Question.c)
 - [네이버 부스트 코스 3주차 (배열)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission3/Queue.c)
+- [네이버 부스트 코스 4주차 (알고리즘)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission4/anagram.c)
 
 ### Effective Java
 
