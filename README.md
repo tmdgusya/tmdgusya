@@ -189,6 +189,7 @@ Observer 패턴으로 설계하진 못했지만, 유사하게 성공해 내서 �
 
 ### 백기선 자바 스터디 
 - [Week1 : JVM 이란 무엇이며 자바코드는 어떻게 실행되는 것인가?](https://www.notion.so/Week1-JVM-631ad7a1abae4dc596481f36266a4f42) 
+- [Week2 : 자바 데이터 타입, 변수 그리고 배열](https://www.notion.so/Week2-42bb9599e8a84952bd07f71cc345218c)
 
 #### Naver 부스트코스 CS50 코칭스터디 2기 (Havard Uni)
 - [네이버 부스트 코스 1주차 (컴퓨팅 사고)](https://velog.io/@tmdgusya/%EB%84%A4%EC%9D%B4%EB%B2%84-CS-50-%EC%B2%AB%EC%A3%BC-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
