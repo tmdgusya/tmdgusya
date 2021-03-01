@@ -61,10 +61,17 @@
 - [네이버 부스트 코스 3주차 (배열)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission3/Queue.c)
 - [네이버 부스트 코스 4주차 (알고리즘)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission4/anagram.c)
 
-### Effective Java
+### Effective Java 스터디
 
-#### 스터디 진행중인 내용
 **organization :** https://github.com/java-squid
+
+### 백기선 자바 스터디 토론
+
+**organization :** https://github.com/study-whiteship/study-whiteship
+
+### 스프링 개인 정리
+
+[스프링 정리 노션](https://www.notion.so/Spring-937603b90d88413e8852129c14868989)
 
 ## 하고 싶은 것들
 
