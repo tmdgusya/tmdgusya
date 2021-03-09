@@ -51,11 +51,7 @@
 * 최근 바이트 코드 보고 분석하는 취미가 생김
 * 클린 코드 
 
-### 백기선 자바 스터디 
-- [Week1 : JVM 이란 무엇이며 자바코드는 어떻게 실행되는 것인가?](https://www.notion.so/Week1-JVM-631ad7a1abae4dc596481f36266a4f42) 
-- [Week2 : 자바 데이터 타입, 변수 그리고 배열](https://www.notion.so/Week2-42bb9599e8a84952bd07f71cc345218c)
-
-#### Naver 부스트코스 CS50 코칭스터디 2기 (Havard Uni)
+#### Naver 부스트코스 CS50 코칭스터디 2기 
 - [네이버 부스트 코스 1주차 (컴퓨팅 사고)](https://velog.io/@tmdgusya/%EB%84%A4%EC%9D%B4%EB%B2%84-CS-50-%EC%B2%AB%EC%A3%BC-1%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트 코스 2주차 (C언어)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission2/Question.c)
 - [네이버 부스트 코스 3주차 (배열)](https://github.com/tmdgusya/TIL/blob/main/CLanguage/mission3/Queue.c)
