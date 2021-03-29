@@ -9,11 +9,8 @@
 
 ## 사용 언어 및 프레임워크❗️❗️
 
-**실무에서 사용한 언어 및 프레임워크**
-**JavaScript TypeScript NodeJS NestJS Angular TypeORM Jest** <br>
-
 **지속적으로 중점적으로 공부중인 언어 및 프레임 워크**
-**Java / Spring / JPA / JSP => (Spirng 에 대한 이해도가 높아지기 시작하면 짬을 내서 Deno 를 개인적으로 공부해볼까 생각중이다.)** 
+**Java / Spring / JPA**
 
 ## 경력
 
