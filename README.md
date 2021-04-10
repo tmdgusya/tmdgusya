@@ -18,8 +18,6 @@
 
 [한이음 스마트 자전거 자물쇠](https://github.com/tmdgusya/Resume/tree/main/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
-## 코드스쿼드 마스터즈 코스 백엔드 과정(2021/01/06 ~ )
-
 ## 계속해서 해나갈 것들 && 공부중인 내용들 🧘🏻‍♂️
 
 ### 1일 1Commit 운동
@@ -31,6 +29,10 @@
 * CS 기초 이론을 공부하다보면 기본적인 판단 능력을 배양해준다고 생각되어, 계속해서 구현하고 보강해나갈 예정
 * 윤성우의 윈도우 시스템 프로그래밍으로 공부 
 * 자바에서 직접 구현
+
+### 웹 서버 만들기
+
+* [Custom Web Server](https://github.com/tmdgusya/roach-web-server)
 
 ### Java Spring && JPA 공부
 
