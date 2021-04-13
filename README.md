@@ -76,5 +76,11 @@
 
 <https://velog.io/@tmdgusya>
 
+## 세미나
+
+### 코드스쿼드 테크톡
+- [Spring Iterceptior 발표] : https://youtu.be/KMG2v-E4H4Q
+- [슬라이드 쉐어] : https://www.slideshare.net/ssuser13b412/1-by-roach-spring-interceptor
+
 <!--
 **tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
