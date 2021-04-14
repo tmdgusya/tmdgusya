@@ -30,9 +30,15 @@
 * 윤성우의 윈도우 시스템 프로그래밍으로 공부 
 * 자바에서 직접 구현
 
-### 웹 서버 만들기
+## 웹 서버 만들기
 
 * [Custom Web Server](https://github.com/tmdgusya/roach-web-server)
+
+### 서버를 만들면서 만들어본 기술 문서들
+
+* [Wiki](https://github.com/tmdgusya/roach-web-server/wiki)
+
+* [예시 하나](https://github.com/tmdgusya/roach-web-server/wiki/HttpRequest-%EB%A5%BC-%EB%8B%A8%EC%9D%BC-%EC%B1%85%EC%9E%84-%EC%9B%90%EC%B9%99%EC%9C%BC%EB%A1%9C%EC%84%9C-%EB%B6%84%EB%A6%AC%ED%95%B4%EB%82%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4%EC%A0%90.)
 
 ### Java Spring && JPA 공부
 
