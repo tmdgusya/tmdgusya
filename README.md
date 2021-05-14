@@ -11,11 +11,12 @@
 ## 사용 언어 및 프레임워크❗️❗️
 
 **지속적으로 중점적으로 공부중인 언어 및 프레임 워크**
-**Java / Spring / JPA**
 
-## 공부 중인 언어 및 프레임워크
+- Ruby, ROR (Ruby On Rails), JavaScript, React, MySQL
 
-- Ruby, ROR (Ruby On Rails), JavaScript, React
+## 사용 가능 언어 및 프레임워크
+
+- **Java / Spring / JPA / Spring Data JDBC**
 
 ## 경력
 
