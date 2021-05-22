@@ -12,7 +12,7 @@
 
 **지속적으로 중점적으로 공부중인 언어 및 프레임 워크**
 
-- Ruby, ROR (Ruby On Rails), JavaScript, React, MySQL
+- Ruby, ROR (Ruby On Rails), JavaScript, TypeScript, React, MySQL
 
 ## 사용 가능 언어 및 프레임워크
 
