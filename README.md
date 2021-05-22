@@ -18,12 +18,6 @@
 
 - **Java / Spring / JPA / Spring Data JDBC**
 
-## 경력
-
-[(주) 윈스 웹 개발 부서 인턴 2020/08/01 ~ 2020/12/31](https://github.com/tmdgusya/Resume/tree/main/%EC%9C%88%EC%8A%A4)
-
-[한이음 스마트 자전거 자물쇠](https://github.com/tmdgusya/Resume/tree/main/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-
 ## 계속해서 해나갈 것들 && 공부중인 내용들 🧘🏻‍♂️
 
 ### 1일 1Commit 운동
