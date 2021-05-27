@@ -1,4 +1,4 @@
-# Resume👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Roach-Git&fontSize=90)
 
 ## History
 
