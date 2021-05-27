@@ -2,7 +2,8 @@
 
 ## Stats
 
-[![Roach's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgusya)](https://github.com/anuraghazra/github-readme-stats)
+[![Roach's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgusya&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
 
 ## History
 
