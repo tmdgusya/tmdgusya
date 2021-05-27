@@ -23,9 +23,15 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 ## 사용 언어 및 프레임워크❗️❗️
 
 **지속적으로 중점적으로 공부중인 언어 및 프레임 워크**
-
-Ruby, ROR (Ruby On Rails), JavaScript, TypeScript, React, MySQL
-NestJS, Graphql => Side-Project 진행중
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=red"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=red"/>
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=Graphql&logoColor=purple"/>  
 
 ## 사용 가능 언어 및 프레임워크
 
