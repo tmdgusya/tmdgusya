@@ -21,8 +21,6 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 **생활연구소 (2021/05/10 ~ 재직중) - Server Dev**
 
 ## 사용 언어 및 프레임워크❗️❗️
-
-**지속적으로 중점적으로 공부중인 언어 및 프레임 워크**
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=red"/>
@@ -32,10 +30,6 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=red"/>
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=Graphql&logoColor=purple"/>  
-
-## 사용 가능 언어 및 프레임워크
-
-**Java / Spring / JPA / Spring Data JDBC**
 
 ## 관심있는 분야
 
