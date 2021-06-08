@@ -33,11 +33,11 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 
 ## 관심있는 분야
 
- - 프레임워크 제작 및 Contribute
+ 프레임워크 제작 및 Contribute
   
- - **TDD (😍)**
+ **TDD (😍)**
  
- - **Unit Test, E2E Test**
+ **Unit Test, E2E Test**
 
 # Velog 주소
 
@@ -53,6 +53,10 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 ## 아티클
   
 [주에 두개는 올리려고 하는 아티클](https://velog.io/@tmdgusya/series/Article)
+  
+## TDD 를 통해 개발하고 있는 블로그
+
+ [Rog](https://github.com/tmdgusya/Rog)
 
   
 </div>
