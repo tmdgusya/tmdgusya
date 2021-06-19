@@ -38,11 +38,11 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
  **TDD (😍)**
  
  **Unit Test, E2E Test**
-
-# Velog 주소
-
-<a href="https://velog.io/@tmdgusya"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+  
+# 개인 블로그 오픈
+  
+<a href="http://ec2-3-37-14-254.ap-northeast-2.compute.amazonaws.com/"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
 ## 세미나
 
 ### 코드스쿼드 테크톡
