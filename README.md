@@ -35,6 +35,8 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 
  프레임워크 제작 및 Contribute
   
+  Flutter => 상당히 재밌음..
+  
  **TDD (😍)**
  
  **Unit Test, E2E Test**
