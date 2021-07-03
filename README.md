@@ -58,10 +58,13 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
   
 [주에 두개는 올리려고 하는 아티클](https://velog.io/@tmdgusya/series/Article)
   
-## TDD 를 통해 개발하고 있는 블로그
-
- [Rog](https://github.com/tmdgusya/Rog)
-
+## 동아리 활동
+  
+### JK2B
+  - 자바 기초반 튜터링 멘토로 활동 중
+    - 기초 커리큘럼 초안 (https://www.notion.so/Java-49ffe53d2b29436eb826690f6f710a1c) 
+    - organization : 
+    - review 과정 :
   
 </div>
 <!--
