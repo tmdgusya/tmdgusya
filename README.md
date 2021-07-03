@@ -43,7 +43,9 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
   
 # 개인 블로그 오픈
   
-<a href="http://ec2-3-37-14-254.ap-northeast-2.compute.amazonaws.com/"><img src="https://img.shields.io/badge/-Rlog-yellow"/></a>
+<a href="http://ec2-3-37-14-254.ap-northeast-2.compute.amazonaws.com/">클릭시 이동가능!<img src="https://img.shields.io/badge/-Rlog-yellow"/></a>
+  
+  보안상의 이유로 코드는 공개 private Repo
   
 ## 세미나
 
