@@ -65,7 +65,11 @@ Wins (co). (2020/08)~(2020/12) - Web Dev
 
   
 ### JK2B
-자바 기초반 튜터링 멘토로 활동 중
+
+자바 기초반 
+
+튜터링 멘토로 활동 중
+
 기초 커리큘럼 초안 (https://www.notion.so/Java-49ffe53d2b29436eb826690f6f710a1c) 
 
 organization : 
