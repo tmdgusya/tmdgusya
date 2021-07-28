@@ -51,11 +51,9 @@
 
 ## 관심있는 분야
 
-### 좋은 설계 방식❓
+### 좋은 코딩 습관 공부중
 
-- 최근에는 그동안 지지부진하게 공부했던 **설계 방식에 대한 방법론**에 대한 공부들을 해가고 있습니다. 읽으면서 점점 느끼는 점은 **프로그래밍을 유지보수 하게 좋기 짜는 것도 좋지만**, 그건 하나의 개발 방법론 인거 같고, 결국에는 **프로그래머 와 도메인 전문가 사이에 어떻게 좋은 의사소통**을 해나가면서 **도메인의 Context 에 어긋나지 않게, 모델을 설계하는 것**이 무엇인가가 중요한것 같다는 생각이 들었습니다.
-- Domain-Driven-Design 공부 자료
-    - **링크** : [https://github.com/tmdgusya/DomainDriveDesign](https://github.com/tmdgusya/DomainDriveDesign)
+   - **링크** : [리팩터링 2판](https://github.com/tmdgusya/RefactoringTwo)
 
 ### 테스팅
 
