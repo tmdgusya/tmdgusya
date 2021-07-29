@@ -81,12 +81,6 @@
 
 ## 현재 운영 및 참가한 스터디👨‍🎓
 
-### Effective TypeScript Study
-
-- 기간 : 2021-07-27 ~
-- 코어 자바스크립트 저자 정재남님이 여신 스터디
-- 링크 : https://github.com/roy-jung/effective-typescript
-
 ### JK2B 스터디
 
 - 기간 : 2021-06-27 ~ 진행중
