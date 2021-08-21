@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
   <img src="https://img.shields.io/badge/SpringDataJDBC-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
   
 </div>
 
