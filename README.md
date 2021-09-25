@@ -30,7 +30,7 @@
 ## Contact 🔍
 
 - Git-Hub : [https://github.com/tmdgusya](https://github.com/tmdgusya)
-- Blog : [http://www.roach-devlog.com/](http://www.roach-devlog.com/)
+- Blog : [http://www.roach-devlog.com/](https://devroach.tistory.com/)
 - **Email :** **dev0jsh@gamil.com**
 
 ## Contribute
