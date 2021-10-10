@@ -51,9 +51,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/> 
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
-  <img src="https://img.shields.io/badge/SpringDataJDBC-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
   
 </div>
 
