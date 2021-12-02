@@ -57,5 +57,9 @@
   
 [슬라이드 쉐어] : https://www.slideshare.net/ssuser13b412/1-by-roach-spring-interceptor
 
+### 코드스쿼드 세션 발표
+
+[초보 개발자로 살아남기] : https://www.youtube.com/watch?v=to7fEUeY8sU
+
 <!--
 **tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
