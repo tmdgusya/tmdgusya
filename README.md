@@ -34,6 +34,11 @@
 <div align='center'>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdgusya)](https://hits.seeyoufarm.com)
+  
+## 읽은 책을 정리해 둔곳
+  
+로치의 책방📚
+https://fantastic-vertebra-60c.notion.site/58e58d99a32d444cbf63bd34a30093a2
  
 
 ## 사용 언어 및 프레임워크❗️❗️
