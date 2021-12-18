@@ -43,14 +43,16 @@ https://fantastic-vertebra-60c.notion.site/58e58d99a32d444cbf63bd34a30093a2
 
 ## 사용 언어 및 프레임워크❗️❗️
   
+### Server
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=red"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
+
+### Front   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=yellow"/>
+
+### Infra
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/> 
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   
 </div>
  
