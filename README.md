@@ -38,7 +38,7 @@
 ## 읽은 책을 정리해 둔곳
   
 **로치의 책방📚** <br/>
-https://fantastic-vertebra-60c.notion.site/58e58d99a32d444cbf63bd34a30093a2
+https://tmdgusya.github.io/roach-books/
  
 
 ## 사용 언어 및 프레임워크❗️❗️
