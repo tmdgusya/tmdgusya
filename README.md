@@ -55,18 +55,6 @@ https://tmdgusya.github.io/roach-books/
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/> 
   
 </div>
- 
-  
-## 세미나
-
-### 코드스쿼드 테크톡
-[Spring Iterceptior 발표] : https://youtu.be/KMG2v-E4H4Q
-  
-[슬라이드 쉐어] : https://www.slideshare.net/ssuser13b412/1-by-roach-spring-interceptor
-
-### 코드스쿼드 세션 발표
-
-[초보 개발자로 살아남기] : https://www.youtube.com/watch?v=to7fEUeY8sU
 
 <!--
 **tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
