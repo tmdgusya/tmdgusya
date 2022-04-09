@@ -30,6 +30,7 @@
 ## Contribute
 
 - **GlueSQL Contributer[https://github.com/gluesql/gluesql]**
+- **Spring Reactor[https://github.com/reactor/reactor-core/issues/3004]**
 
 <div align='center'>
   
@@ -60,13 +61,6 @@ http://roach-wiki.com/doku.php?id=start
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/> 
   
 </div>
-
-## Contribute
-
-
-https://github.com/reactor/reactor-core/issues/3004
-
-https://github.com/gluesql/gluesql/pull/291
 
 <!--
 **tmdgusya/tmdgusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
