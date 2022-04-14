@@ -31,6 +31,7 @@
 
 - **GlueSQL Contributer[https://github.com/gluesql/gluesql]**
 - **Spring Reactor[https://github.com/reactor/reactor-core/issues/3004]**
+- **kcat[https://github.com/edenhill/kcat/issues/379]**
 
 <div align='center'>
   
