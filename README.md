@@ -46,7 +46,7 @@ https://tmdgusya.github.io/roach-books/
 ## 위키
   
 **Roach's Wiki** <br/>
-https://roach.gitbook.io
+https://roach.gitbook.io/roachs-wiki
  
 
 ## 사용 언어 및 프레임워크❗️❗️
