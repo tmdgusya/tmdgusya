@@ -29,7 +29,7 @@
 
 ## Contribute
 
-- **GlueSQL Contributer[https://github.com/gluesql/gluesql]**
+- **GlueSQL Contributer[https://github.com/gluesql/gluesql/pull/291]**
 - **Spring Reactor[https://github.com/reactor/reactor-core/issues/3004]**
 - **Spring Cloud Sleuth[https://github.com/spring-cloud/spring-cloud-sleuth/issues/2148#event-6453207101]**
 - **kcat[https://github.com/edenhill/kcat/issues/379]**
