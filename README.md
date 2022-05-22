@@ -33,6 +33,7 @@
 - **Spring Reactor[https://github.com/reactor/reactor-core/issues/3004]**
 - **Spring Cloud Sleuth[https://github.com/spring-cloud/spring-cloud-sleuth/issues/2148#event-6453207101]**
 - **kcat[https://github.com/edenhill/kcat/issues/379]**
+- **MDN HTTP/1.1[https://github.com/mdn/translated-content/pull/5772]**
 
 <div align='center'>
   
