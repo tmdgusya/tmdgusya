@@ -23,6 +23,7 @@
 
 - Git-Hub : [https://github.com/tmdgusya](https://github.com/tmdgusya)
 - Blog : [http://www.roach-devlog.com/](https://devroach.tistory.com/)
+- EngBlog: [https://medium.com/@dev0jsh](https://medium.com/@dev0jsh)
 - **Email :** **dev0jsh@gamil.com**
 - twitter: @dev_roach
 - facebook: https://www.facebook.com/profile.php?id=100004833574793
