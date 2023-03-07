@@ -13,11 +13,11 @@
   
 ## 소개 😁
 
-- 기술의 깊은 부분들을 좋아하고, 기술의 역사를 공부하고, 탐구하며 기술의 아름다움을 전파하는 것을 좋아하는 개발자입니다.
-- **좋은 개발문화가 있는 회사**를 사랑하고, 좋은 개발 문화를 만들어 나가는 회사를 좋아합니다. 💕
-- **프로그래밍에 대한 지식을 재전파하는 것**도 좋아합니다.
-- 객체지향 프로그래밍을 사랑합니다.
-- 본명 : **정승현**
+- I'm developer who loves the deep stuff of technology, stuying it's history, exploring it, and spreading it's beauty.
+- I love the company which have good development culture, create good development culture 💕. 
+- I love to spread knowledge about programming.
+- I love oop.
+- Real Name : **정승현(Jeong Seong Hyeon)**
   
 ## Contact 🔍
 
