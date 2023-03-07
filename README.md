@@ -11,7 +11,7 @@
   
 </div>
   
-## 소개 😁
+## Introduce 😁
 
 - I'm developer who loves the deep stuff of technology, stuying it's history, exploring it, and spreading it's beauty.
 - I love the company which have good development culture, create good development culture 💕. 
