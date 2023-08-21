@@ -13,10 +13,10 @@
   
 ## Introduce 😁
 
-- I'm developer who loves the deep stuff of technology, stuying it's history, exploring it, and spreading it's beauty.
-- I love the company which have good development culture, create good development culture 💕. 
-- I love to spread knowledge about programming.
-- I love oop.
+- I'm a developer who loves the deep stuff of technology, studying its history, exploring it, and spreading its beauty.
+- I love a company with a good development culture and creates a good development culture 💕. 
+- I love to share knowledge about programming.
+- I love OOP(Objected-Oriented-Programming).
 - Real Name : **정승현(Jeong Seong Hyeon)**
   
 ## Contact 🔍
@@ -39,26 +39,6 @@
 - **Kotlin BoilerPlate Auto Complete Tools [https://github.com/tmdgusya/kotlin-test-boilerplate]**
   - [Intellij store link](https://plugins.jetbrains.com/plugin/19868-kotest-boilerplate)
   - Plugin for Kotlin to create test boiler template code
-
-## Algorithm
-
-조금씩 푸는 중
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/tmdgusya)
-
-<div align='center'>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdgusya)](https://hits.seeyoufarm.com)
-  
-## 읽은 책을 정리해 둔곳
-  
-**로치의 책방📚** <br/>
-https://tmdgusya.github.io/roach-books/
-  
-## 위키
-  
-**Roach's Wiki** <br/>
-https://roach.gitbook.io/roachs-wiki
  
 
 ## 사용 언어 및 프레임워크❗️❗️
