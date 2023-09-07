@@ -24,6 +24,7 @@
 - Git-Hub : [https://github.com/tmdgusya](https://github.com/tmdgusya)
 - Blog(new) : [https://www.roach-dev.com/](https://www.roach-dev.com/)
 - Blog(legacy) : [http://www.roach-devlog.com/](https://devroach.tistory.com/)
+- EngBlog(Custom): [https://tmdgusya.github.io](https://tmdgusya.github.io)
 - EngBlog: [https://medium.com/@dev0jsh](https://medium.com/@dev0jsh)
 - **Email :** **dev0jsh@gamil.com**
 - twitter: @dev_roach
