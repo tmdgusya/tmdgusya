@@ -40,20 +40,7 @@
 - **Kotlin BoilerPlate Auto Complete Tools [https://github.com/tmdgusya/kotlin-test-boilerplate]**
   - [Intellij store link](https://plugins.jetbrains.com/plugin/19868-kotest-boilerplate)
   - Plugin for Kotlin to create test boiler template code
- 
 
-## 사용 언어 및 프레임워크❗️❗️
-  
-### Server
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=red"/>
-    <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
-
-### Front   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=yellow"/>
-
-### Infra
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=red"/> 
   
 </div>
 
