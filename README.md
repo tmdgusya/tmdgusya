@@ -20,7 +20,7 @@ facebook: https://www.facebook.com/profile.php?id=100004833574793
 ## Open-Source
 
 **Kotlin BoilerPlate Auto Complete Tools [https://github.com/tmdgusya/kotlin-test-boilerplate]**
-- [Intellij store link](https://plugins.jetbrains.com/plugin/19868-kotest-boilerplate)
+[Intellij store link](https://plugins.jetbrains.com/plugin/19868-kotest-boilerplate)
 Plugin for Kotlin to create test boiler template code
   
 </div>
