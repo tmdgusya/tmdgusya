@@ -5,7 +5,7 @@ Real Name : **정승현(Jeong Seong Hyeon)**
 ## Contact 🔍
 
 Git-Hub : [https://github.com/tmdgusya](https://github.com/tmdgusya)  
-Blog: [http://www.roach-devlog.com/](https://devroach.tistory.com/)   
+Blog: [https://roach-wiki.com/wiki/welcome](https://roach-wiki.com/wiki/welcome)   
 EngBlog: [https://medium.com/@dev0jsh](https://medium.com/@dev0jsh)  
 **Email :** **dev0jsh@gmail.com**  
 twitter: @dev_roach  
