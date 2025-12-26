@@ -18,9 +18,8 @@ facebook: https://www.facebook.com/profile.php?id=100004833574793
 
 ## Open-Source
 
-**Kotlin BoilerPlate Auto Complete Tools [https://github.com/tmdgusya/kotlin-test-boilerplate]**
-[Intellij store link](https://plugins.jetbrains.com/plugin/19868-kotest-boilerplate)  
-Plugin for Kotlin to create test boiler template code
+**typed-pytest** : https://github.com/tmdgusya/typed-pytest
+- An open-source library that enables IDE auto-completion when writing test code.
   
 </div>
 
