@@ -20,6 +20,8 @@ facebook: https://www.facebook.com/profile.php?id=100004833574793
 
 **typed-pytest** : https://github.com/tmdgusya/typed-pytest
 - An open-source library that enables IDE auto-completion when writing test code.
+
+![GitHub Miner](https://raw.githubusercontent.com/tmdgusya/github-graphic/master/github-miner.svg)
   
 </div>
 
