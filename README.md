@@ -11,11 +11,6 @@ EngBlog: [https://medium.com/@dev0jsh](https://medium.com/@dev0jsh)
 twitter: @dev_roach  
 facebook: https://www.facebook.com/profile.php?id=100004833574793  
 
-## Contribute
-
-**GlueSQL Contributer[https://github.com/gluesql/gluesql/pull/291]**  
-**kotlin-csv Optimize memory[https://github.com/doyaaaaaken/kotlin-csv/issues/103]**  
-
 ## Open-Source
 
 **typed-pytest** : https://github.com/tmdgusya/typed-pytest
