@@ -8,7 +8,7 @@ Git-Hub : [https://github.com/tmdgusya](https://github.com/tmdgusya)
 Blog: [https://roach-wiki.com/wiki/welcome](https://roach-wiki.com/wiki/welcome)   
 EngBlog: [https://medium.com/@dev0jsh](https://medium.com/@dev0jsh)  
 **Email :** **dev0jsh@gmail.com**  
-twitter: @dev_roach  
+twitter: [@dev_roach](https://x.com/DevRoachLog)  
 facebook: https://www.facebook.com/profile.php?id=100004833574793  
 
 ## Open-Source
